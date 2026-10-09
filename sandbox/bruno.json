@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "auth-sandbox",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
